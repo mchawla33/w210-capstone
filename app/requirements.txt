@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+boto3
+requests
